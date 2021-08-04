@@ -1,0 +1,4 @@
+#Wed Aug 04 02:51:22 PKT 2021
+base.0=E\:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex

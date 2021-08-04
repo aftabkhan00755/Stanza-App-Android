@@ -1,0 +1,87 @@
+com/example/stanza/MainActivity.java
+ com.example.stanza.MainActivity
+ com.example.stanza.MainActivity$1
+com/example/stanza/BuildConfig.java
+ com.example.stanza.BuildConfig
+com/example/stanza/NotesProvider.java
+ com.example.stanza.NotesProvider
+com/example/stanza/Poem.java
+ com.example.stanza.Poem
+com/example/stanza/AccountCommThread.java
+ com.example.stanza.AccountCommThread
+ com.example.stanza.AccountCommThread$1
+ com.example.stanza.AccountCommThread$10
+ com.example.stanza.AccountCommThread$2
+ com.example.stanza.AccountCommThread$3
+ com.example.stanza.AccountCommThread$4
+ com.example.stanza.AccountCommThread$5
+ com.example.stanza.AccountCommThread$6
+ com.example.stanza.AccountCommThread$7
+ com.example.stanza.AccountCommThread$8
+ com.example.stanza.AccountCommThread$9
+com/example/stanza/DBOpen2.java
+ com.example.stanza.DBOpen2
+com/example/stanza/AccountCommInterface.java
+ com.example.stanza.AccountCommInterface
+com/example/stanza/UserPoemFragment.java
+ com.example.stanza.UserPoemFragment
+ com.example.stanza.UserPoemFragment$1
+ com.example.stanza.UserPoemFragment$2
+ com.example.stanza.UserPoemFragment$3
+com/example/stanza/ItemTouchHelperAdapter.java
+ com.example.stanza.ItemTouchHelperAdapter
+com/example/stanza/EditPoemActivity.java
+ com.example.stanza.EditPoemActivity
+ com.example.stanza.EditPoemActivity$1
+ com.example.stanza.EditPoemActivity$2
+ com.example.stanza.EditPoemActivity$3
+ com.example.stanza.EditPoemActivity$4
+ com.example.stanza.EditPoemActivity$rhymeTask
+com/example/stanza/FriendBoardFragment.java
+ com.example.stanza.FriendBoardFragment
+ com.example.stanza.FriendBoardFragment$1
+ com.example.stanza.FriendBoardFragment$2
+ com.example.stanza.FriendBoardFragment$3
+ com.example.stanza.FriendBoardFragment$4
+com/example/stanza/NotesProvider2.java
+ com.example.stanza.NotesProvider2
+com/example/stanza/DBOpenHelper.java
+ com.example.stanza.DBOpenHelper
+com/example/stanza/Account.java
+ com.example.stanza.Account
+com/example/stanza/CommThread.java
+ com.example.stanza.CommThread
+ com.example.stanza.CommThread$1
+ com.example.stanza.CommThread$2
+ com.example.stanza.CommThread$3
+ com.example.stanza.CommThread$4
+ com.example.stanza.CommThread$5
+com/example/stanza/ManageFriendsActivity.java
+ com.example.stanza.ManageFriendsActivity
+ com.example.stanza.ManageFriendsActivity$1
+ com.example.stanza.ManageFriendsActivity$2
+ com.example.stanza.ManageFriendsActivity$3
+ com.example.stanza.ManageFriendsActivity$4
+ com.example.stanza.ManageFriendsActivity$5
+ com.example.stanza.ManageFriendsActivity$6
+com/example/stanza/ViewPoemActivity.java
+ com.example.stanza.ViewPoemActivity
+com/example/stanza/PoemRecyclerAdapter.java
+ com.example.stanza.PoemRecyclerAdapter
+ com.example.stanza.PoemRecyclerAdapter$OnItemClickListener
+ com.example.stanza.PoemRecyclerAdapter$PoemViewHolder
+ com.example.stanza.PoemRecyclerAdapter$PoemViewHolder$1
+com/example/stanza/CommInterface.java
+ com.example.stanza.CommInterface
+com/example/stanza/ViewPageAdapter.java
+ com.example.stanza.ViewPagerAdapter
+com/example/stanza/SignupActivity.java
+ com.example.stanza.SignupActivity
+ com.example.stanza.SignupActivity$1
+ com.example.stanza.SignupActivity$2
+com/example/stanza/LoginActivity.java
+ com.example.stanza.LoginActivity
+ com.example.stanza.LoginActivity$1
+ com.example.stanza.LoginActivity$2
+com/example/stanza/ItemTouchHelperCallback.java
+ com.example.stanza.ItemTouchHelperCallback

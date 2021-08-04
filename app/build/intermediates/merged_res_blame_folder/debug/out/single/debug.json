@@ -1,0 +1,122 @@
+[
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_action_add.png.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_editor.xml.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\layout\\activity_editor.xml"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\layout_friend_list_item.xml.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\layout\\friend_list_item.xml"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\drawable_file_document_box.png.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\drawable\\file_document_box.png"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\drawable_quill.png.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\drawable\\quill.png"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_action_delete.png.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_action_add.png.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\drawable-hdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_viewer.xml.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\layout\\activity_viewer.xml"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_action_delete.png.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\drawable-mdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_action_add.png.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\drawable-xxhdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_manage_friends.xml.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\menu\\menu_manage_friends.xml"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_document.png.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\drawable-hdpi\\ic_document.png"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\drawable-hdpi_ic_action_delete.png.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\drawable-hdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_userpoemfragment.xml.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\menu\\menu_userpoemfragment.xml"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_editor.xml.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\menu\\menu_editor.xml"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\layout_user_poem_fragment.xml.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\layout\\user_poem_fragment.xml"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_friendboardfragment.xml.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\menu\\menu_friendboardfragment.xml"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_signup.xml.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\layout\\activity_signup.xml"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\drawable_stanza.png.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\drawable\\stanza.png"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\layout_fragment_friend.xml.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\layout\\fragment_friend.xml"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\menu_menu_main.xml.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\menu\\menu_main.xml"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\layout_actvity_login.xml.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\layout\\actvity_login.xml"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\drawable-xxhdpi_ic_document.png.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\drawable-xxhdpi\\ic_document.png"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_action_delete.png.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\drawable-xhdpi\\ic_action_delete.png"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\layout_poem_card.xml.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\layout\\poem_card.xml"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_document.png.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\drawable-mdpi\\ic_document.png"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\drawable-xhdpi_ic_document.png.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\drawable-xhdpi\\ic_document.png"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\drawable-mdpi_ic_action_add.png.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\drawable-mdpi\\ic_action_add.png"
+    },
+    {
+        "merged": "E:\\office projects\\stanza-master\\Stanza\\app\\build\\intermediates\\merged_res\\debug\\layout_activity_manage_friends.xml.flat",
+        "source": "E:\\office projects\\stanza-master\\Stanza\\app\\src\\main\\res\\layout\\activity_manage_friends.xml"
+    }
+]

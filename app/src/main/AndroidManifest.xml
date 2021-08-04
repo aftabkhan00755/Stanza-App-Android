@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.stanza" >
+
+    <uses-permission android:name="android.permission.INTERNET"/>
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+
+        android:allowBackup="true"
+        android:icon="@drawable/file_document_box"
+        android:label="Stanza"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.example.stanza.MainActivity"
+            android:theme="@style/AppTheme.NoActionBar"
+            android:label="@string/app_name"
+            android:launchMode="singleTop">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <provider
+            android:name="com.example.stanza.NotesProvider"
+            android:authorities="com.example.stanza.notesprovider"
+            android:exported="false" />
+        <provider
+            android:name="com.example.stanza.NotesProvider2"
+            android:authorities="com.example.stanza.notesprovider2"
+            android:exported="false" />
+
+        <activity
+            android:name=".EditPoemActivity"
+            android:label="@string/poetry_editor"
+            android:windowSoftInputMode="stateVisible|adjustResize"
+            android:isScrollContainer="true" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value="com.example.stanza.MainActivity" />
+        </activity>
+
+        <activity
+            android:name="com.example.stanza.ViewPoemActivity"
+            android:label="@string/view_friends_poem"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+        <activity
+            android:name="com.example.stanza.ManageFriendsActivity"
+            android:label="Manage Friends"
+            android:parentActivityName=".MainActivity" >
+            <meta-data
+                android:name="android.support.PARENT_ACTIVITY"
+                android:value=".MainActivity" />
+        </activity>
+
+
+
+        <activity android:name=".LoginActivity" android:theme="@style/AppTheme.NoActionBar"/>
+        <activity android:name=".SignupActivity" android:theme="@style/AppTheme.NoActionBar"/>
+
+        <meta-data android:name="userapp.AppId" android:value="YOUR-APP-ID"/>
+    </application>
+
+</manifest>
